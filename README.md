@@ -5,14 +5,14 @@
 ## the const keyword provides guarantees to your users that allow you to make performance optimizations without the threat of damaging their data
 
 ## The const keyword specifies that a variable's value is constant and tells the compiler to prevent the programmer from modifying it.
-
+'''
 // constant_values1.cpp
 int main() {
    const int i = 5;
    i = 10;   // not available
    i++;   // not available
 }
-
+'''
 
 ## you can use the const keyword instead of the #define preprocessor directive to define constant values
 
