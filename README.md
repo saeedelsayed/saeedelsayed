@@ -17,7 +17,7 @@ int main() {
 ## you can use the const keyword instead of the #define preprocessor directive to define constant values
 
 ## you can specify the size of an array with a const variable as follows:
-
+```
 const int maxarray = 255;
 char store_char[maxarray];
 The const keyword can also be used in pointer declarations.
@@ -27,9 +27,9 @@ int main() {
    *aptr = 'a';   
    aptr = yourbuf;   
 }
-
+```
 ## A pointer to a variable declared as const can be assigned only to a pointer that is also declared as const.
-
+```
 #include <stdio.h>
 int main() {
    const char *mybuf = "test";
@@ -40,19 +40,19 @@ int main() {
    printf_s("%s\n", bptr);
 
    }
-
+```
 ## You can use pointers to constant data as function parameters to prevent the function from modifying a parameter passed through a pointer.
 
 ## For objects that are declared as const, you can only call constant member functions. This ensures that the constant object is never modified.
-
+```
 birthday.getMonth();    // Okay
 birthday.setMonth( 4 );    // Error
-
+```
 
 ## The unary address-of operator (&) returns the address of its operand.
 
 ## The following code fragment shows how the address-of operator result differs, depending on whether a class member is static:
-
+```
 class PTM {
 public:
     int iValue;
@@ -64,9 +64,9 @@ int main() {
    float PTM::*pfValue = &PTM::fValue;  // C2440 error: static
    float *spfValue     = &PTM::fValue;  // OK
 }
-
+```
 ## Applying the address-of operator to a reference type gives the same result as applying the operator to the object to which the reference is bound. For example:
-
+```
 #include <iostream>
 using namespace std;
 int main() {
@@ -79,9 +79,9 @@ int main() {
 }
 Output:
 &d equals &rd
-
+```
 ## The following example uses the address-of operator to pass a pointer argument to a function:
-
+```
 #include <iostream>
 using namespace std;
 
@@ -96,4 +96,4 @@ int main() {
 }
 Output:
 25
-
+```
