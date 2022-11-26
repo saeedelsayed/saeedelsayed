@@ -3,8 +3,6 @@
 <h3 align="center">A software developer from Egypt</h3>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/e8/f4/53/e8f453469a3ec97ecd354df465d73913.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=saeedelsayed&label=Profile%20views&color=0e75b6&style=flat" alt="saeedelsayed" /> </p>
-
 - 📫 How to reach me **saidelsayed922@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
