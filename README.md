@@ -7,11 +7,11 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/saeed-elsayed-823b50217/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/saeed-elsayed-823b50217/" height="30" width="40" /></a>
-<a href="https://fb.com/https://www.facebook.com/said.shams.104/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/said.shams.104/" height="30" width="40" /></a>
-<a href="https://instagram.com/https://www.instagram.com/saidelsayed22/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/saidelsayed22/" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/saidelsayed922" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="saidelsayed922" height="30" width="40" /></a>
-<a href="https://discord.gg/saeed el sayed#8238" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="saeed el sayed#8238" height="30" width="40" /></a>
+  <a href="https://www.linkedin.com/in/saeed-elsayed-823b50217/"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40"/></a>
+  <a href="https://www.facebook.com/said.shams.104/"><img  alt="...."  src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" height="30" width="40"/></a>
+  <a href="https://codeforces.com/profile/saidelsayed922" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="saidelsayed922" height="30" width="40" /></a>
+  <a href="https://www.instagram.com/saidelsayed22/" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/saidelsayed22/" height="30" width="40"/></a>
+
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
