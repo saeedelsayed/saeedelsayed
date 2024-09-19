@@ -1,4 +1,4 @@
-<img src="https://mrwallpaper.com/images/hd/programming-a-laptop-wuze1bxup48cr0bs.jpg" alt="MasterHead" height="300px" width="600px">
+<img src="https://mrwallpaper.com/images/hd/programming-a-laptop-wuze1bxup48cr0bs.jpg" alt="MasterHead" height="300px" width="1000px">
 <h1 align="center">Hi 👋, I'm Saeed Elsayed</h1>
 <h3 align="center">A software developer from Egypt</h3>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/e8/f4/53/e8f453469a3ec97ecd354df465d73913.gif">
